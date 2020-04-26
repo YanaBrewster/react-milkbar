@@ -1,0 +1,11 @@
+.heading{
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+}
+
+.aboutContainer:after{
+  clear: both;
+  display: table;
+  content: "";
+}
